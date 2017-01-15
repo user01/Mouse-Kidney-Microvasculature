@@ -1,0 +1,2 @@
+
+print("Starting Image Process")
